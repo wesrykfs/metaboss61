@@ -1,0 +1,41 @@
+{
+  "name": "Girl leadership #29",
+  "symbol": "GL2",
+  "description": "Girl leadership 2.0 is a GENESIS drop of Girl society M collection. Meet first one of a kind 333 Girl leadership 2.0 NFTs.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/8vtCJTmtnHoCI8ltkCMAfgRqkVtxA41LP8fE6uupUcw",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Purple BG"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Skin"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "Orange Bubble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Piercings"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
